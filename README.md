@@ -3,8 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-henrique-de-paula-fernandes-a7512b199/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giohenrique_514/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RelampagoAzul5&layout=donut)](https://github.com/RelampagoAzul5/github-readme-stats)
-
 ![RelampagoAzul5's GitHub stats](https://github-readme-stats.vercel.app/api?username=RelampagoAzul5&show_icons=true&theme=dracula)
 
 
