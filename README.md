@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RelampagoAzul5&layout=donut)](https://github.com/RelampagoAzul5/github-readme-stats)
 
-![RelampagoAzul5's GitHub stats](https://github-readme-stats.vercel.app/api?username=RelampagoAzul5&show_icons=true&theme=radical)
+![RelampagoAzul5's GitHub stats](https://github-readme-stats.vercel.app/api?username=RelampagoAzul5&show_icons=true&theme=dracula)
 
 
 ## Tecnologias que uso no meu dia
